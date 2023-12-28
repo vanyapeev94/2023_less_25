@@ -44,14 +44,14 @@ body{
 }
 .product-wrapper .sale-active{
     color: #956D84;
-    background: rgba(157, 117, 140, 0.39);
+    background: rgb(255 172 0 / 39%);
     text-align: center;
     width: 56px;
     padding: 20px 0;
     border-radius: 50%;
 }
 .product-wrapper .add-to-cart{
-    background: #956D84;
+    background: #27be17;
     box-shadow: inset 0px 5px 5px rgba(0, 0, 0, 0.15);
     border-radius: 7px;
     padding:20px;
